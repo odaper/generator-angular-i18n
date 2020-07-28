@@ -1,0 +1,29 @@
+{
+  "name": "generator-angular-i18n",
+  "version": "1.0.0",
+  "description": "Generator tool to help you manage the i18n translation of angular apps easily  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odaper/angular-i18n-generator.git"
+  },
+  "keywords": [
+    "angular",
+    "i18n",
+    "internationalisation",
+    "translation",
+    "yeoman-generator"
+  ],
+  "author": "Khaled Mathlouthi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odaper/angular-i18n-generator/issues"
+  },
+  "homepage": "https://github.com/odaper/angular-i18n-generator#readme",
+  "dependencies": {
+    "yeoman-generator": "^4.11.0"
+  }
+}
